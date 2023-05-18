@@ -1,0 +1,9 @@
+s.o SISTEMAS OPERACIONAIS
+windows PAGO
+linux LIVRE 
+apple PAGO
+QUANTAS VERSÕES tem Windows?42
+antes do Windows  era o MSDOS aquela tela preta 
+
+
+jardilane.carvalho@aluno.senai.br
